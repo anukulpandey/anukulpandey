@@ -11,6 +11,12 @@ A final year undergrad who is Full Stack Web2 & Web3 Developer 👨‍💻 , App
 
 **Database** : MongoDB , Postgresql
 
+## &#x269B; Language Stats
+<p align="center">
+  <a align="center" href="https://github.com/boidushya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulpandey&show_icons=true&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 ## 🚀 About Me
 I'm a full stack developer. I have built more than 20 dApps like RNS( REEF Name Service), a deflationary launchpad , Liquidity pool dex, Gaming dApp & much more. You can check out my projects on my
