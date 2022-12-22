@@ -18,6 +18,11 @@ A final year undergrad who is Full Stack Web2 & Web3 Developer 👨‍💻 , App
   </a>
 </p>
 
+## &#x1f4c8; Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anukulpandey&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
+
 ## 🚀 About Me
 I'm a full stack developer. I have built more than 20 dApps like RNS( REEF Name Service), a deflationary launchpad , Liquidity pool dex, Gaming dApp & much more. You can check out my projects on my
 
