@@ -13,7 +13,7 @@ A final year undergrad who is Full Stack Web2 & Web3 Developer 👨‍💻 , App
 
 ## &#x269B; Language Stats
 <p align="center">
-  <a align="center" href="https://github.com/boidushya">
+  <a align="center" href="https://github.com/anukulpandey">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulpandey&show_icons=true&theme=transparent&hide_border=true" />
   </a>
 </p>
