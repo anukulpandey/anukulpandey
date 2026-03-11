@@ -1,21 +1,32 @@
-# 👋 Hi, I'm Anukul Pandey
+<!-- HEADER -->
 
-💻 **Full-Stack Engineer | Security Researcher**
+<h1 align="center">Hi 👋 I'm Anukul Pandey</h1>
 
-I build **production-ready applications, developer tools, and blockchain infrastructure**.
-Over the last **3+ years**, I've worked on everything from **scalable backend systems and APIs** to **smart contract ecosystems and developer platforms**.
+<p align="center">
+Full-Stack Engineer • Security Researcher • Protocol Integrator
+</p>
 
-I enjoy **reverse-engineering systems, forking complex protocols for new chains, building developer infrastructure, and discovering vulnerabilities in large platforms.**
+<p align="center">
+Building production systems, developer infrastructure and blockchain integrations.
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anukulpandey&label=Profile%20views&color=0e75b6&style=flat" />
+
+</p>
 
 ---
 
-# 🚀 Highlights
+# 🚀 About Me
 
-🏆 Winner — **REEF Chain Hackathon**
-🍕 Reported **security vulnerabilities in Domino’s**
-🔎 Security findings involving **GitHub infrastructure**
-⚙️ Built multiple **production applications and developer tools**
-🔗 Experienced in **forking and adapting blockchain protocols**
+* 💻 **3+ years experience building production-ready applications**
+* 🔎 Security researcher with vulnerability discoveries
+* 🍕 Found vulnerabilities in **Domino’s**
+* 🧠 Experienced in **forking and adapting blockchain protocols**
+* 🏆 **Winner — REEF Chain Hackathon**
+* ⚙️ Built developer tooling, infrastructure services and full-stack platforms
+* 🔗 Passionate about **systems engineering & protocol experimentation**
 
 ---
 
@@ -23,13 +34,13 @@ I enjoy **reverse-engineering systems, forking complex protocols for new chains,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flask,solidity,cpp,mongodb,postgres,linux,bash,docker,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flask,solidity,cpp,mongodb,postgres,linux,bash,docker,git&perline=7" />
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -41,11 +52,41 @@ I enjoy **reverse-engineering systems, forking complex protocols for new chains,
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=anukulpandey&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anukulpandey&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ff897a&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=darkhub&no-frame=true&row=1&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -71,4 +112,4 @@ I enjoy **reverse-engineering systems, forking complex protocols for new chains,
 
 ---
 
-⭐ *Always interested in building interesting systems, security research, and protocol experimentation.*
+⭐ *Always interested in building interesting systems, protocol infrastructure and security research.*
