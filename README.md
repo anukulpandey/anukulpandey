@@ -83,9 +83,13 @@ I enjoy working on:
 # 🏆 Achievements
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=algolia&no-frame=true&row=1&margin-w=20"/>
+# 📊 Activity Overview
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anukulpandey&theme=github_dark"/>
 </p>
 
 ---
