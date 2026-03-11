@@ -80,12 +80,6 @@ I enjoy working on:
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
 # 📊 Activity Overview
 
 <p align="center">
