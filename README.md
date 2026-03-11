@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Anukul Pandey</h1>
 
 <p align="center">
-Full-Stack Engineer • Security Researcher • Protocol Integrator
+Full-Stack Engineer • Security Researcher
 </p>
 
 <p align="center">
