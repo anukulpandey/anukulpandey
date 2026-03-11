@@ -1,32 +1,40 @@
-<!-- HEADER -->
+<!-- PROFILE HEADER -->
 
-<h1 align="center">Hi 👋 I'm Anukul Pandey</h1>
+<h1 align="center">Hi 👋, I'm Anukul Pandey</h1>
 
 <p align="center">
-Full-Stack Engineer • Security Researcher
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Security+Researcher;Protocol+Integrator;Building+Production+Systems" />
+
 </p>
 
 <p align="center">
-Building production systems, developer infrastructure and blockchain integrations.
+💻 3+ Years Experience • 🔐 Security Research • ⚙️ Systems & Infrastructure
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anukulpandey&label=Profile%20views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=anukulpandey&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 💻 **3+ years experience building production-ready applications**
-* 🔎 Security researcher with vulnerability discoveries
-* 🍕 Found vulnerabilities in **Domino’s**
-* 🧠 Experienced in **forking and adapting blockchain protocols**
-* 🏆 **Winner — REEF Chain Hackathon**
-* ⚙️ Built developer tooling, infrastructure services and full-stack platforms
-* 🔗 Passionate about **systems engineering & protocol experimentation**
+```txt
+> Full-stack engineer building production systems
+> Security researcher with real-world vulnerability discoveries
+> Experienced in forking and adapting complex blockchain protocols
+> Winner — REEF Chain Hackathon
+> Found security issues in Domino’s and other platforms
+```
+
+I enjoy working on:
+
+* ⚙️ backend systems
+* 🔗 blockchain infrastructure
+* 🧠 reverse engineering
+* 🔐 vulnerability discovery
+* 🧰 developer tooling
 
 ---
 
@@ -34,13 +42,13 @@ Building production systems, developer infrastructure and blockchain integration
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flask,solidity,cpp,mongodb,postgres,linux,bash,docker,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flask,solidity,cpp,mongodb,postgres,linux,bash,docker,git,nginx&perline=8"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -66,17 +74,17 @@ Building production systems, developer infrastructure and blockchain integration
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anukulpandey&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ff897a&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anukulpandey&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=darkhub&no-frame=true&row=1&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anukulpandey&theme=algolia&no-frame=true&row=1&margin-w=20"/>
 
 </p>
 
@@ -97,7 +105,7 @@ Building production systems, developer infrastructure and blockchain integration
 <p align="center">
 
 <a href="https://github.com/anukulpandey">
-<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/0xanukul">
@@ -112,4 +120,8 @@ Building production systems, developer infrastructure and blockchain integration
 
 ---
 
-⭐ *Always interested in building interesting systems, protocol infrastructure and security research.*
+<p align="center">
+
+⭐ *Building systems, breaking systems, and learning how they work.*
+
+</p>
